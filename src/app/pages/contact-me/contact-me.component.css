@@ -1,0 +1,23 @@
+
+.form-group {
+    margin-top: 10px;
+ 
+ }
+ .label-form {
+    font-weight: bold;
+    margin-right: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: block;
+ 
+ }
+ .input-form {
+    width: 100%;
+    padding: 10px;
+ 
+ }
+ .contactMe{
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+ 
+ }
